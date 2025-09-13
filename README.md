@@ -20,7 +20,9 @@
 - `C`, `C++`
 - `T-SQL`
 - `Networking`
-- Linux, Vim, GitHub
+- `Linux`
+-  `Vim`
+-  `GitHub`
 
 🗂️ **Favorite Project:**  
 [42-Cursus](https://github.com/qaneee/42-Cursus)

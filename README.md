@@ -17,12 +17,7 @@
 🎓 **Student at National Polytechnic University of Armenia & 42 Yerevan**
 
 🖥️ **Main Skills:**
-- `C`, `C++`
-- `T-SQL`
-- `Networking`
-- `Linux`
--  `Vim`
--  `GitHub`
+- `C`,   `C++`,   `T-SQL`,   `Networking`,   `Linux`,   `Vim`,   `GitHub`
 
 🗂️ **Favorite Project:**  
 [42-Cursus](https://github.com/qaneee/42-Cursus)

@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Profile README for qaneee -->
 
-<!--
-**qaneee/qaneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color:#1976d2;">
+  Hi, I'm qaneee 👋
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/-Minimalist%20Coder-1976d2?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-1976d2?logo=linux&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vim-1976d2?logo=vim&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHub-1976d2?logo=github&logoColor=white&style=flat-square"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎓 **Student at National Polytechnic University of Armenia & 42 Yerevan**
+
+🖥️ **Main Skills:**
+- `C`, `C++`
+- `T-SQL`
+- `Networking`
+- Linux, Vim, GitHub
+
+🗂️ **Favorite Project:**  
+[42-Cursus](https://github.com/qaneee/42-Cursus)
+
+---
+
+<p align="center" style="color:#1976d2;">
+  <em>Blue, simple, and always learning.</em>
+</p>

@@ -1,7 +1,7 @@
 <!-- Profile README for qaneee -->
 
 <h1 align="center" style="color:#1976d2;">
-  Hi, I'm qaneee 👋
+    Hello  👋
 </h1>
 
 <p align="center">

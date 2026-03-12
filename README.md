@@ -1,7 +1,3 @@
-### Hi There 👋🏻
+hi there 👋🏻
 
-C · Linux · Makefile
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qaneee&show_icons=true&hide_title=true&bg_color=ffffff&border_color=e0e0e0&text_color=333333&icon_color=333333&count_private=true)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="32" />

@@ -1,48 +1,5 @@
-<div align="center">
-
-```
-██████╗  █████╗ ███╗   ██╗███████╗███████╗
-██╔═══██╗██╔══██╗████╗  ██║██╔════╝██╔════╝
-██║   ██║███████║██╔██╗ ██║█████╗  █████╗  
-██║▄▄ ██║██╔══██║██║╚██╗██║██╔══╝  ██╔══╝  
-╚██████╔╝██║  ██║██║ ╚████║███████╗███████╗
- ╚══▀▀═╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
-```
-
-*// low-level. no shortcuts. no garbage collector.*
-
 [![GitHub followers](https://img.shields.io/github/followers/qaneee?style=flat-square&color=00ff41&labelColor=0d0d0d&label=followers)](https://github.com/qaneee)
 [![Profile views](https://komarev.com/ghpvc/?username=qaneee&style=flat-square&color=00ff41&label=visitors)](https://github.com/qaneee)
-
-</div>
-
----
-
-```c
-#include <stdio.h>
-
-typedef struct {
-    char *name;
-    char *role;
-    char *os;
-    char *tools[];
-} Dev;
-
-int main(void) {
-    Dev me = {
-        .name  = "qaneee",
-        .role  = "low-level developer",
-        .os    = "Linux",
-        .tools = { "C", "Makefile", "GDB", "valgrind", NULL }
-    };
-
-    printf(">> booting %s...\n", me.name);
-    printf(">> writing code close to the metal.\n");
-    return 0;
-}
-```
-
----
 
 <div align="center">
 
@@ -74,9 +31,3 @@ EDITOR  = whatever gets the job done
 ![GitHub Streak](https://streak-stats.demolab.com?user=qaneee&theme=chartreuse-dark&background=0d0d0d&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888)
 
 ---
-
-<div align="center">
-
-*`$ gcc -o life main.c && ./life`*
-
-</div>
